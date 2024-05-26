@@ -1,0 +1,17 @@
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.deps.json
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.dll
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\ref\Module05Forms.dll
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.pdb
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.csproj.AssemblyReference.cache
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\PersonalInfoPage.xaml.g.cs
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.AssemblyInfoInputs.cache
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.AssemblyInfo.cs
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.csproj.CoreCompileInputs.cache
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.sourcelink.json
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.dll
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\refint\Module05Forms.dll
+C:\Users\Derick\OneDrive\Documents\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.pdb
